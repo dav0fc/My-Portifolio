@@ -1,9 +1,9 @@
 import HeaderLink from './HeaderLink';
 
 const links = [
-  { path: "about", title: "Sobre" },
+  { path: "about", title: "Sobre Mim" },
   { path: "projects", title: "Projetos" },
-  { path: "contact", title: "Contato" }
+  { path: "contact", title: "Contate-me" }
 ];
 
 export default function NavHeader() {

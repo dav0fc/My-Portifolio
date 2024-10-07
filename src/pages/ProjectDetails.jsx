@@ -11,13 +11,10 @@ export default function ProjectDetails() {
       Projeto não encontrado!
     </h1>
   ) : (
-    <section className="flex flex-col justify-center items-center space-y-4 mt-10 p-8 font-serif text-lg">
+    <section className="flex flex-col justify-center items-center space-y-4 mt-10 p-8 text-lg">
       <h2 className="text-2xl font-bold mb-4">{project.title}</h2>
-      <h3 className="rounded-3xl w-[10rem] py-2 px-3 text-center"
-      style={{ backgroundColor: project.bg }}>
-        {project.name}
-        </h3>
-      <p className="text-center" >
+      <img src={project.img} alt={`Logo do Projeto ${project.title}`} className="w-96 h-auto rounded-3xl" />
+      <p className="text-justify w-2/3" >
         {project.description.split("\n").map((line, index) => (
           <span key={index}>
             {line}

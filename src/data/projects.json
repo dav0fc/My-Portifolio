@@ -1,35 +1,43 @@
 [
   {
     "id": 1,
-    "title": "",
-    "name": "",
-    "url": "",
+    "title": "Blue Reckon",
+    "img": "https://i.imgur.com/O5UmXGB.png",
+    "url": "Projeto_Blue_Reckon",
     "bg": "rgb(199, 54, 54)",
-    "description": ""
+    "description": "Projeto para Global Solution do Primeiro Semestre das turmas de Engenharia de Software da FIAP, \n Consiste numa plataforma de estudo sobre o Mar focado nos mais jovens e nas pessoas menos letradas"
   },
   
     {
       "id":2,
-      "title": "",
-      "name": "",
-      "url": "",
+      "title": "E-Pit",
+      "img": "https://i.imgur.com/x5FkVg1.jpeg",
+      "url": "https://github.com/miguelkapicius/Mahindra_Challenge_2024",
       "bg": "rgb(194, 149, 8)",
-      "description":""
+      "description":"Esse projeto foi desenvolvido para Challenge de 2024 da FIAP, a pedido da Tech Mahindra, esse projeto consiste em uma plataforma de palpites, forums e wikis sobre a Formula E, juntamente com um sistema de visualização de corridas anteriores"
     },
     {
       "id":3,
-      "title": "",
-      "name": "",
-      "url": "",
+      "title": "Melodia",
+      "img": "https://i.imgur.com/cxuKjso.png",
+      "url": "MateusLem/melodia-chckpoint5",
       "bg": "rgb(15 118 110)",
-      "description":""
+      "description":"O projeto consiste num codigo fonte de um site chamado Melodia. O site oferece uma experiência musical otimizada com funcionalidades avançadas como modo offline, playlists inteligentes e recomendações personalizadas. Ele foi desenvolvido utilizando tecnologias modernas como HTML, CSS, SASS e Bootstrap, garantindo um design responsivo e de fácil navegação."
     },
     {
       "id": 4,
-      "title": "",
-      "name": "",
-      "url": "",
+      "title": "I-F-A-M",
+      "img": "https://i.imgur.com/S88H232.png",
+      "url": "dav0fc/Site-Escola-Magica",
       "bg": "rgb(22 101 52)",
-      "description":""
+      "description":"Foi um dos meus primeiros sites, nesse projeto foi construido um portal para a escola de magia Instituto Fenix de Artes Magicas ou IFAM pra encurtar"
+    },
+    {
+      "id": 5,
+      "title": "Circuito Blue Captor",
+      "img": "https://i.imgur.com/g1qqKnX.png",
+      "url": "MateusLem/gs-edge",
+      "bg": "rgb(22 101 52)",
+      "description":"Projeto de um circuito para ser colocado nos barcos do Projeto Blue Reckon, esses barcos coletariam os dados para a alimentar a plataforma."
     }
   ]
